@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @isachomonik
-- 👀 I’m movies, books and games that blow my mind
+- 👀 I love movies, books and games that blow my mind
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 📫 How to reach me<br> 
     email - dev.isachomonik@gmail.com<br>
