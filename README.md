@@ -1,7 +1,6 @@
 ## Hi, I’m Isac Homonik
 <i>“If you wish to make an apple pie from scratch, you must first create the universe.” — Carl Sagan</i>
-- 👀 I love movies, books and games that blow my mind
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🤯 I love movies, books and games that blow my mind
     
     <div align="center">
   <a href="https://github.com/isachomonik">
