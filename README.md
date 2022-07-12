@@ -1,15 +1,24 @@
-## Hi, I’m Isac Homonik and if you wish to make an apple pie from scratch, you must first create the universe.
+## Hi, I’m Isac Homonik
+<i>“If you wish to make an apple pie from scratch, you must first create the universe.” — Carl Sagan</i>
 - 👀 I love movies, books and games that blow my mind
 - 🌱 I’m currently learning HTML, CSS and JavaScript
-- 📫 How to reach me<br> 
-    email - dev.isachomonik@gmail.com<br>
-    discord - zod4k#2533
     
     <div align="center">
   <a href="https://github.com/isachomonik">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=isachomonik&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isachomonik&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+
+<h2>I'm currently learning<h2>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+<br>
 
 ##
  
