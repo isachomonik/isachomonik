@@ -23,6 +23,9 @@
 
 
 
+###
+
+<h2 align="center">Tools that I work with</h2>
 
 ###
 
@@ -48,6 +51,8 @@
 
 
 ###
+
+<h2 align="center">How to reach me</h2>
 
 <div align="center">
   <a href="instagram.com/nik_isac" target="_blank">
