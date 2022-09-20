@@ -8,7 +8,7 @@
 
 ###
 
-<p>- 🤯 I love movies, books and games that blow my mind </p>
+<p>-🤯 I love movies, books and games that blow my mind </p>
 
 
 
