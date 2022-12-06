@@ -55,7 +55,7 @@
 <h2 align="center">How to reach me</h2>
 
 <div align="center">
-  <a href="instagram.com/nik_isac" target="_blank">
+  <a href="https://www.instagram.com/nik_isac" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="discordapp.com/users/142078765575438336" target="_blank">
