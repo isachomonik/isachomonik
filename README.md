@@ -4,7 +4,7 @@
 <h2 align="center">Hi 👋! My name is Isac Homonik and I'm a Full Sack Web Developer from Brazil</h2>
 
 
-<h4 align="left">If you wish to make an apple pie from scratch, you must first create the universe.” — Carl Sagan</h4>
+<h4 align="left">"If you wish to make an apple pie from scratch, you must first create the universe.” — Carl Sagan</h4>
 
 ###
 
